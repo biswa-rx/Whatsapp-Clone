@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "946086470254",
+    "project_id": "learnwhatsapp-68395",
+    "storage_bucket": "learnwhatsapp-68395.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946086470254:android:1a2cf6e9c0731549dffc7f",
+        "android_client_info": {
+          "package_name": "com.example.whatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946086470254-oaprqnokgf7lv4kh71abckn6lvc0dlib.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWis47K6yadTZ4ARsl4urN3KwazXR0A7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "946086470254-oaprqnokgf7lv4kh71abckn6lvc0dlib.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
