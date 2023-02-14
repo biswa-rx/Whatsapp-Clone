@@ -1,3 +1,3 @@
 # Whatsapp-Clone
 
-Not a complit project
+Not a complete project
